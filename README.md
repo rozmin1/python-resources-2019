@@ -321,3 +321,10 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+
+##Resources I used:
+
+Python Program To Remove Special Characters From String - www.youtube.com
+ROT13 cipher - www.geeksforgeeks.org
+Python for: Loop Over String Characters - www.dotnetperls.com
